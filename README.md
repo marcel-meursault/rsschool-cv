@@ -1,1 +1,1 @@
-# rsschool-cv
+https://marcel-meursault.github.io/rsschool-cv/cv
